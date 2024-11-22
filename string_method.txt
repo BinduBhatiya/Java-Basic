@@ -1,0 +1,109 @@
+1. charAt :
+    charAt return the character. in this function we can pass the index as arguments it return character as output.
+
+2. codePointAt :
+    codePointAt return the ascii value as output. in which we need to pass the index as argument.
+
+3. codePointBefore :
+    codePointBefore return the ascii value of before character as output. in which we need to pass the index as 
+    argument.
+
+4. codePointCount :
+    codePointCount return the total count. in this function we need to pass the firstindex and second index. this
+    function count the number between of the given arguments.
+
+5. compareTo :
+    compareTo is used to compare two variable value. it return 0 if both variable value is same.
+
+6. compareToIgnoreCase :
+    compareToIgnoreCase it used to return 0. if both variable value is same or not.
+
+7. concate :
+    concate is used to extend the value of another variable.
+
+8. contains :
+    contains is used to return true or false if we passed argument define in the original string.
+
+9. contentequals :
+    contentequals is used to find the given argument is same to the variable value. if both value is not the match
+    then it return false. 
+
+10. copyValueOf :
+    copyValueOf is used to copy the data which is given length wise.
+
+11. endswith :
+    endswith is used to return true or false if the variable value is endswith given arguments.
+
+12. equals :
+    equals is used to return true or false. in which we need to pass the value as argument. if both the value is same return true 
+    or not.
+
+13. equalsIgnoreCase :
+    equalsIgnoreCase return true or false. if both value same it means if the difference like upper and lower then 
+    just return true otherwise return false. it is not case-sensitive.
+
+14. format :
+    format is used to format the data. it is used to fetch the data.
+
+15. getBytes :
+    in simple getBytes is used to get the ascii value of given index.
+
+16. getChars :
+    getChars is used to set the another string into the original string.
+
+17. hascode :
+    hascode return the hascode of given string as an arguments.
+
+18. indexOf :
+    indexOf return the index of given string in the arguments.
+
+19. isEmpty : 
+    isEmpty is used to return true or false if given string is empty or not.
+
+20. join :
+    join method is used to join the string.
+
+21. lastIndexOf :
+    lastIndexOf is used to return the index of given string in to the last.
+
+22. length :
+    length is used to return the length of given string.
+
+23. matches :
+    matches is used to return true or false if given argument is match with the original string.
+
+24. replace :
+    replace is used to replace the character which is given in arguments.
+
+25. replaceFirst :
+    replaceFirst is used to replace the string first.
+
+26. split :
+    split is used to split the string.
+
+27. startswith :
+    startswith is used to return true or false.if the string is startswith given arguments.
+
+28. subsequence :
+    subsequence is used to return the string of given index wise.
+
+29. substring :
+    substring is same as subsequence.
+
+30. tocharArray :
+    tocharArray is used to return the character of given index.
+
+31. toUppercase :
+    it can convert string into uppercase.
+
+32. toLowercase :
+    it can convert string into lowercase.
+
+33. toString :
+    toString is used to convert value into String.
+
+34. trim :
+    trim is used to remove the blank space from string.
+
+35. valueOf :
+    valueOf is used to give the value of given string.

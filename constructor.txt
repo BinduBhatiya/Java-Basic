@@ -1,0 +1,6 @@
+what is constructor in java ?
+    java support a special type of method called constructor initializing an object when it is created.
+
+it has two types :
+1. default constructor
+2. parameterized constructor
