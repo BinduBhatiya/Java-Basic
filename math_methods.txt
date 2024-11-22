@@ -1,0 +1,88 @@
+/* 
+ 
+1. abs :-
+    abs return absolute value.
+
+2. acos :-
+    acos return arc cosine value.
+
+3. addExact :-
+    addExact is used to add two value which is given in argument. but, required to both are same.
+
+4. cbrt :-
+    cbrt is used to return cube root of given argument. 
+
+5. ceil :-
+    ceil return upper value.
+
+6. floor :-
+    floor return lower value.
+
+   floorDiv :-
+   floorDiv return the floor div value it means if division of 10/3 = 3.3 then it return 4.  
+
+7. copySign :-
+    copysign return the first argument value with second argument sign + or -
+
+8. cosh :- 
+    cosh return hyperbolic cosine value.
+
+9. decrementExact :-
+    decrementExact decrease -1 with the given arguments.
+
+   incrementExact :-
+   incrementExact increase 1 with the given arguments. 
+
+   substractExact :-
+   substractExact is used to substraction of both arguments.
+
+10. floorMod :-
+    floorMod return modulas value(Reminder)
+
+11. hypot :-
+    hypot return hypotenuse of a right angle triangle.
+    math.sqrt(x*x + y*y)
+
+12. max :-
+    max return the max value.
+
+13. min :-
+    min return min value.
+
+14. multiplyExact :-
+    multiplyExact return multiplication of both arguments.
+
+15. negateExact :-
+    it convert positive into negative and negative into positive.
+
+16. nextDown :-
+    nextDown return the 1 above value of the given arguments value.
+
+17. nextUp :-
+    nextUp return the 1 before value of the given argument value.
+
+18. pow :-
+    pow return the power of given argument.
+
+19. random :-
+    random is used to generate random value.
+
+20. rInt :-
+    rInt is used to return the round value. it is similar to the round but rInt return double value where 
+    round return int and long.
+
+21. round :-
+    1.5 then it return 2.0  ||   1.4 then it return 1.0
+
+22. sqrt :-
+    sqrt is return square root.
+
+23. toDegrees :-
+    toDegrees method converts an angle from radians to degrees.
+
+24. toRadians :-
+    toRadians convert degrees to Radian.
+
+25. toIntExact :-
+    toIntExact method Converts a long value to an int
+*/
