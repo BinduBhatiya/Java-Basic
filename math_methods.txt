@@ -1,5 +1,3 @@
-/* 
- 
 1. abs :-
     abs return absolute value.
 
@@ -85,4 +83,4 @@
 
 25. toIntExact :-
     toIntExact method Converts a long value to an int
-*/
+

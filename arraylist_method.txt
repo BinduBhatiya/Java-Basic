@@ -1,0 +1,63 @@
+ 
+what is arraylist ?
+    An ArrayList in Java is a part of the java.util package and is a resizable array implementation.
+    Unlike arrays, which have a fixed size, ArrayLists can dynamically grow and shrink as elements are 
+    added or removed.
+
+add :-
+    add is used to add the data in arraylist.
+
+addall :-
+    addall is similar to the extends.
+
+clear :-
+    remove all item from the list.
+
+clone :-
+    clone just like a copy of the variable value into another.
+
+contains :-
+    contains return true or false. if given argument value is in the original arraylist or not.
+
+get :-
+    get is used to get the string from arraylist based on given index as arguments.
+
+indexOf :-
+    indexOf is used to return the index of given string in arguments.
+
+    lastIndexOf :-
+    lastIndexOf is used to return the index of given string from last.
+
+isEmpty :-
+    isEmpty return true or false if the given arraylist is Empty or not.
+
+remove :-
+    remove is used to remove the value from arraylist.
+
+removeall :- 
+    removeall is used to removeall the data from ArrayList.
+    
+removeIf :-
+    removeIf is used to remove the data based on the 'If' condition.
+
+replaceAll :-
+    replaceAll is used to replace all the value according to the given condition.
+
+retainAll :-
+    retainAll is used to remove all data which is not define in retailAll.
+
+set :-
+    set is used to set the data into the ArrayList.
+
+size :-
+    size is used to give the size of the arrayList.
+
+sort :-
+    sort is used to sort the data of ArrayList.
+
+sublist :-
+    sublist is used to return the value between of the given arguments.
+    
+trimToSize :-
+    does not show any effect in the program of this but, it is used to manage the space and size.
+
